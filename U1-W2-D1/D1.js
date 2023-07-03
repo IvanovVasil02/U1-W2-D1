@@ -83,6 +83,7 @@ console.log("sottrazione tra i numeri 4 e la variable 'x' è uguale a: ", x - 4)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
 let name1 = "john";
 let name2 = "John";
 
